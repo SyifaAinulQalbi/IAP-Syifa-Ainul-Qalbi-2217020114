@@ -18,6 +18,7 @@ $dbh = new PDO('mysql:host=localhost;dbname=lppd_pariaman','root','');
 $db = $dbh->prepare('SELECT * FROM user');
 $db->execute();
 $user = $db->fetchAll(PDO::FETCH_ASSOC);
+
 $data = json_encode($user);
 echo $data;
 
