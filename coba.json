@@ -1,0 +1,33 @@
+[ 
+{
+    "nama" : "Syifa",
+    "umur" : 20,
+    "nim"  : "2217020114",
+    "lulus" : true,
+    "hobby": [
+        "bermain alat musik",
+        "mendengarkan musik"
+    ],
+    "pembimbing" : {
+        "pembimbing1" : "Mi-Ji",
+        "pembimbing2" : "Mi-Rae"
+    }
+
+},
+
+{
+    "nama" : "Syifa",
+    "umur" : 20,
+    "nim"  : "2217020114",
+    "lulus" : true,
+    "hobby": [
+        "bermain alat musik",
+        "mendengarkan musik"
+    ],
+    "pembimbing" : {
+        "pembimbing1" : "Mi-Ji",
+        "pembimbing2" : "Mi-Rae"
+    }
+
+}
+]
